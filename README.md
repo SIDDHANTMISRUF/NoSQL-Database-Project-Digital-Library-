@@ -34,7 +34,7 @@ MongoDB Compass (optional, for database visualization)
 ⚡ Quick Start
 1. Clone the Repository
 bash
-git clone https://github.com/your-username/digital-library-nosql.git
+git clone https://github.com/SIDDHANTMISRUF/NoSQL-Database-Project-Digital-Library-
 cd digital-library-nosql
 2. Install Dependencies
 bash
